@@ -1,1 +1,1 @@
-# chatEdu
+# eduChat
