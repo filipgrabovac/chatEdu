@@ -1,5 +1,5 @@
 import { Outlet } from "@tanstack/react-router";
-import { Home } from "./Home/Home";
+import { Home } from "./pages/Home/Home";
 
 export const App = () => {
   return (
